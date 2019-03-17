@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "240980372431",
+    "firebase_url": "https://vectoroso.firebaseio.com",
+    "project_id": "vectoroso",
+    "storage_bucket": "vectoroso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240980372431:android:d58159d2ade32d66",
+        "android_client_info": {
+          "package_name": "com.example.monster_07.vectoroso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240980372431-kd2277k2tthgul6mttlfs2djvesc51oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monster_07.vectoroso",
+            "certificate_hash": "8622941479dd9f8ec9754b6cbeb126dee3e32571"
+          }
+        },
+        {
+          "client_id": "240980372431-fu61rjlcec0v2nedf52e32gqn24r6a3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkbdJLCsdCQA4XC02mzOUtq6Wfatps1bE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240980372431-fu61rjlcec0v2nedf52e32gqn24r6a3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

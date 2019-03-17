@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.monster_07.vectoroso">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Vectoroso"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".solved"></activity>
+        <activity android:name=".dosign_up" />
+        <activity android:name=".do_login" />
+        <activity android:name=".problem_share" />
+        <activity android:name=".profileScroll" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".First_Slide"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".Unique_Card_View" />
+        <activity android:name=".Login" />
+        <activity android:name=".Signup" />
+        <activity
+            android:name=".nav"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Giveaways" />
+        <activity android:name=".Social" />
+        <activity android:name=".Orders" />
+        <activity android:name=".order" />
+        <activity android:name=".About_us" />
+        <activity android:name=".Suggestions" />
+        <activity android:name=".Developers" />
+        <activity android:name=".onclickCardview"/>
+    </application>
+
+</manifest>
